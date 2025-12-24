@@ -46,7 +46,8 @@ I'm **Srinath S**
 ---
 
 ### 📫 How to reach me
-- LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/srinath29
+
 - Email:srinath2934@gmail.com
 ---
 
