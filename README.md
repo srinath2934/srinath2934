@@ -46,9 +46,8 @@ I'm **Srinath S**
 ---
 
 ### 📫 How to reach me
-- LinkedIn: add-your-link-here  
-- Email: add-your-email-here  
-
+- LinkedIn: 
+- Email:srinath2934@gmail.com
 ---
 
 ### 😄 Pronouns
