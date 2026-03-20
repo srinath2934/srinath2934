@@ -1,60 +1,59 @@
-## Hi there 👋  
-I'm **Srinath S**
+# 👋 Hi, I'm Srinath S
 
-🎓 Data Scientist & AI Engineer  
-💡 Curious about data, machine learning, and AI-powered systems  
-🚀 Passionate about turning real-world data into insights and solutions  
-
----
-
-### 🔭 I’m currently working on
-- End-to-end data science projects using real-world datasets  
-- Machine learning models with proper evaluation and feature engineering  
-- NLP-based text analysis and basic LLM-assisted workflows  
-- Web scraping projects to build custom datasets  
+🎓 Artificial Intelligence & Data Science Student  
+🚀 Building AI systems using Machine Learning, NLP, and Generative AI  
+💡 Focused on real-world applications, vector databases, and scalable AI pipelines  
 
 ---
 
-### 🌱 I’m currently learning
-- Improving ML model performance and validation techniques  
-- Practical NLP pipelines  
-- LangChain-based LLM workflows  
-- Writing cleaner, production-ready Python code  
+## 🔧 What I Do
+
+- Design and build **Retrieval-Augmented Generation (RAG)** systems  
+- Work with **vector databases (FAISS, Endee)** for semantic search  
+- Develop **machine learning models** with proper evaluation and feature engineering  
+- Build **NLP pipelines** using embeddings and LLM workflows  
+- Create datasets using **web scraping and data engineering techniques**  
 
 ---
 
-### 👯 I’m looking to collaborate on
-- Data science and machine learning projects  
-- NLP or data collection (web scraping) projects  
-- Beginner-friendly open-source data projects  
+## 🚀 Key Projects
+
+### 🔹 AI Code Intelligence System (Endee Vector DB)
+- Built a production-grade RAG system for semantic search over GitHub repositories  
+- Integrated **Endee vector database** for high-performance similarity search  
+- Implemented AST-based parsing and metadata enrichment for accurate retrieval  
+
+### 🔹 Support Ticket Intelligence System
+- Processed **8,469+ support tickets** using Sentence-BERT embeddings  
+- Built classification + semantic retrieval system with ~80% accuracy  
+
+### 🔹 AI Tools Dataset Builder
+- Scraped and structured **1000+ AI tools** using Python (BeautifulSoup, Requests)  
 
 ---
 
-### 🤔 I’m looking for help with
-- Best practices in real-world ML project structuring  
-- Understanding how ML systems are used in industry  
-- Improving deployment-ready thinking for data science  
+## 🧠 Skills
+
+**Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation  
+**NLP & GenAI:** Embeddings, Semantic Search, RAG, LangChain, LangGraph  
+**Vector Databases:** FAISS, Endee  
+**Data:** Pandas, NumPy, SQL, EDA  
+**Backend:** FastAPI, REST APIs  
+**Tools:** Git, GitHub, Jupyter, VS Code  
 
 ---
 
-### 💬 Ask me about
-- Python for data science  
-- Pandas, NumPy, and data analysis  
-- Machine learning basics with scikit-learn  
-- Web scraping and dataset creation  
+## 📌 Currently Focused On
+
+- Improving **retrieval accuracy in RAG systems**  
+- Optimizing **vector search performance**  
+- Building **production-ready AI pipelines**  
 
 ---
 
-### 📫 How to reach me
-🔗 LinkedIn: https://www.linkedin.com/in/srinath29
+## 📫 Connect With Me
 
-- Email:srinath2934@gmail.com
----
-
-### 😄 Pronouns
-- He / Him  
+🔗 LinkedIn: https://www.linkedin.com/in/srinath29  
+📧 Email: srinath2934@gmail.com  
 
 ---
-
-### ⚡ Fun fact
-I enjoy breaking down complex ideas into simple explanations and learning by building projects rather than just reading theory.
