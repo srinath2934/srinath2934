@@ -1,59 +1,82 @@
-# 👋 Hi, I'm Srinath S
+# Srinath S
 
-🎓 Artificial Intelligence & Data Science Student  
-🚀 Building AI systems using Machine Learning, NLP, and Generative AI  
-💡 Focused on real-world applications, vector databases, and scalable AI pipelines  
+AI & Data Science undergraduate focused on building applied AI systems using semantic NLP, Retrieval-Augmented Generation (RAG), intelligent automation workflows, and scalable ML pipelines.
 
 ---
 
-## 🔧 What I Do
+## Areas of Focus
 
-- Design and build **Retrieval-Augmented Generation (RAG)** systems  
-- Work with **vector databases (FAISS, Endee)** for semantic search  
-- Develop **machine learning models** with proper evaluation and feature engineering  
-- Build **NLP pipelines** using embeddings and LLM workflows  
-- Create datasets using **web scraping and data engineering techniques**  
-
----
-
-## 🚀 Key Projects
-
-### 🔹 AI Code Intelligence System (Endee Vector DB)
-- Built a production-grade RAG system for semantic search over GitHub repositories  
-- Integrated **Endee vector database** for high-performance similarity search  
-- Implemented AST-based parsing and metadata enrichment for accurate retrieval  
-
-### 🔹 Support Ticket Intelligence System
-- Processed **8,469+ support tickets** using Sentence-BERT embeddings  
-- Built classification + semantic retrieval system with ~80% accuracy  
-
-### 🔹 AI Tools Dataset Builder
-- Scraped and structured **1000+ AI tools** using Python (BeautifulSoup, Requests)  
+- Semantic AI & NLP Systems
+- Retrieval-Augmented Generation (RAG)
+- Embedding-Based Semantic Search
+- Machine Learning Pipelines
+- Intelligent Workflow Automation
+- FastAPI Backend Systems
+- ML Deployment & API Inference
 
 ---
 
-## 🧠 Skills
+## Featured Projects
 
-**Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation  
-**NLP & GenAI:** Embeddings, Semantic Search, RAG, LangChain, LangGraph  
-**Vector Databases:** FAISS, Endee  
-**Data:** Pandas, NumPy, SQL, EDA  
-**Backend:** FastAPI, REST APIs  
-**Tools:** Git, GitHub, Jupyter, VS Code  
+### Semantic AI Driven Multi-Task Ticket Routing System
+- Built an end-to-end semantic ticket intelligence framework using SBERT embeddings and confidence-based routing logic
+- Implemented hybrid ML + semantic retrieval architecture using FastAPI, FAISS, and Scikit-learn
+- Processed 8,469+ historical support tickets for contextual ticket routing and intelligent automation workflows
+- Research paper accepted at ICIRCA 2026
 
----
-
-## 📌 Currently Focused On
-
-- Improving **retrieval accuracy in RAG systems**  
-- Optimizing **vector search performance**  
-- Building **production-ready AI pipelines**  
+Repository:
+https://github.com/srinath2934/An-End-to-End-Semantic-AI-System-for-Automated-Support-Ticket-Handling
 
 ---
 
-## 📫 Connect With Me
+### GitHub Repository Intelligence System (RAG)
+- Developed a Retrieval-Augmented Generation system for semantic understanding of GitHub repositories
+- Implemented repository parsing, embedding generation, semantic retrieval, and context-aware response workflows
+- Built contextual repository intelligence pipelines using LangChain, ChromaDB, and sentence embeddings
 
-🔗 LinkedIn: https://www.linkedin.com/in/srinath29  
-📧 Email: srinath2934@gmail.com  
+Repository:
+https://github.com/srinath2934/github-rag-chatbot
 
 ---
+
+### AI Tools Data Pipeline
+- Built scalable web scraping workflows for collecting and structuring 1000+ AI tools datasets
+- Implemented automated extraction and structured CSV-based data pipelines using Python
+
+Repository:
+https://github.com/srinath2934/data-webscraper
+
+---
+
+## Technical Skills
+
+### Machine Learning
+Predictive Modeling, Classification, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Imbalanced Data Handling
+
+### NLP & Semantic AI
+SBERT, Embeddings, Semantic Search, Semantic Similarity, RAG Workflows, Text Classification
+
+### Backend & Deployment
+FastAPI, REST APIs, AWS EC2, API-based Inference Workflows
+
+### Data & Tools
+Python, SQL, Pandas, NumPy, Scikit-learn, FAISS, ChromaDB, Git, GitHub
+
+---
+
+## Currently Exploring
+
+- Advanced retrieval optimization techniques
+- Scalable vector search systems
+- AI workflow orchestration
+- Production-ready semantic AI systems
+
+---
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/srinath29
+
+Email:
+srinath2934@gmail.com
