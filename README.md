@@ -1,82 +1,74 @@
 # Srinath S
 
-AI & Data Science undergraduate focused on building applied AI systems using semantic NLP, Retrieval-Augmented Generation (RAG), intelligent automation workflows, and scalable ML pipelines.
+AI/ML engineer and 2026 B.Tech Artificial Intelligence & Data Science graduate from Anna University, focused on building applied AI systems with RAG, NLP, vector search, FastAPI, PyTorch, and production-oriented ML workflows.
 
----
+I build projects that connect model behavior with real software systems: repository intelligence, semantic ticket routing, API-based model inference, and data pipelines. I am comfortable reading documentation, debugging independently, writing clean code, and improving when I get stuck.
 
-## Areas of Focus
+## Current focus
 
-- Semantic AI & NLP Systems
-- Retrieval-Augmented Generation (RAG)
-- Embedding-Based Semantic Search
-- Machine Learning Pipelines
-- Intelligent Workflow Automation
-- FastAPI Backend Systems
-- ML Deployment & API Inference
+- Generative AI and Retrieval-Augmented Generation (RAG)
+- NLP with embeddings, semantic search, and vector databases
+- PyTorch model training and model evaluation
+- FastAPI services for AI/ML inference
+- Cloud deployment basics with AWS EC2 and Docker
+- Clean documentation for recruiter and engineering review
 
----
+## Featured projects
 
-## Featured Projects
+### 1. Semantic AI Ticket Intelligence Platform
+Production expansion of research presented at IEEE ICIRCA 2026.
 
-### Semantic AI Driven Multi-Task Ticket Routing System
-- Built an end-to-end semantic ticket intelligence framework using SBERT embeddings and confidence-based routing logic
-- Implemented hybrid ML + semantic retrieval architecture using FastAPI, FAISS, and Scikit-learn
-- Processed 8,469+ historical support tickets for contextual ticket routing and intelligent automation workflows
-- Research paper accepted at ICIRCA 2026
+- Built around SBERT embeddings, FAISS vector search, and confidence-based semantic routing.
+- Expanding into a production-oriented system with PyTorch multi-task learning, FastAPI inference, Weights & Biases tracking, and a balanced 108K+ ticket dataset.
+- Predicts Category, Team, Priority, and ETA from support ticket text.
 
-Repository:
-https://github.com/srinath2934/An-End-to-End-Semantic-AI-System-for-Automated-Support-Ticket-Handling
+Repository: https://github.com/srinath2934/An-End-to-End-Semantic-AI-System-for-Automated-Support-Ticket-Handling
 
----
+### 2. RepoChat - GitHub Repository RAG Assistant
+A RAG system for asking natural-language questions over GitHub repositories.
 
-### GitHub Repository Intelligence System (RAG)
-- Developed a Retrieval-Augmented Generation system for semantic understanding of GitHub repositories
-- Implemented repository parsing, embedding generation, semantic retrieval, and context-aware response workflows
-- Built contextual repository intelligence pipelines using LangChain, ChromaDB, and sentence embeddings
+- Implements repository ingestion, source chunking, embedding generation, vector retrieval, and LLM-grounded answers.
+- Uses Python, LangChain, Hugging Face / SBERT embeddings, vector search, Groq Llama, Streamlit, and Dockerized infrastructure.
+- Designed to help developers understand large codebases faster with source-grounded responses.
 
-Repository:
-https://github.com/srinath2934/github-rag-chatbot
+Repository: https://github.com/srinath2934/RepoChat
 
----
+### 3. YOLOv9 Industrial Object Detection
+Production-oriented computer vision inference project.
 
-### AI Tools Data Pipeline
-- Built scalable web scraping workflows for collecting and structuring 1000+ AI tools datasets
-- Implemented automated extraction and structured CSV-based data pipelines using Python
+- Built a PyTorch object detection pipeline using YOLOv9.
+- Developed FastAPI inference APIs and deployed with Docker on AWS EC2.
+- Reduced inference latency from 3-5 seconds to 110ms through model-serving optimization.
 
-Repository:
-https://github.com/srinath2934/data-webscraper
+### 4. Credit Risk Classification
+Machine learning model for credit risk prediction.
 
----
+- Built with Python, CatBoost, Scikit-learn, feature engineering, and SHAP explainability.
+- Achieved 90% accuracy and 0.74 ROC-AUC.
 
-## Technical Skills
+## Technical skills
 
-### Machine Learning
-Predictive Modeling, Classification, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Imbalanced Data Handling
+**AI/ML:** Python, PyTorch, Scikit-learn, CatBoost, model evaluation, feature engineering, SHAP  
+**Generative AI:** LangChain, RAG, LLM APIs, prompt engineering, Hugging Face Transformers  
+**NLP and retrieval:** SBERT, embeddings, semantic search, FAISS, vector search  
+**Backend and deployment:** FastAPI, REST APIs, Docker, AWS EC2, Linux, Git, GitHub  
+**Data:** SQL, Pandas, NumPy, data cleaning, statistical analysis, Power BI, Excel
 
-### NLP & Semantic AI
-SBERT, Embeddings, Semantic Search, Semantic Similarity, RAG Workflows, Text Classification
+## Certifications
 
-### Backend & Deployment
-FastAPI, REST APIs, AWS EC2, API-based Inference Workflows
+- LangChain Certification - LLM application and RAG workflow development
+- Introduction to Model Context Protocol (MCP) - Anthropic
+- IBM Python for Data Science, AI & Development
+- IBM Python Project for Data Science
+- SQL (Intermediate) - HackerRank
 
-### Data & Tools
-Python, SQL, Pandas, NumPy, Scikit-learn, FAISS, ChromaDB, Git, GitHub
+## Education
 
----
-
-## Currently Exploring
-
-- Advanced retrieval optimization techniques
-- Scalable vector search systems
-- AI workflow orchestration
-- Production-ready semantic AI systems
-
----
+B.Tech - Artificial Intelligence & Data Science  
+JCT College of Engineering & Technology, Anna University  
+2022 - 2026 | CGPA: 8.0 / 10
 
 ## Connect
 
-LinkedIn:
-https://www.linkedin.com/in/srinath29
-
-Email:
-srinath2934@gmail.com
+LinkedIn: https://www.linkedin.com/in/srinath29  
+Email: srinath2934@gmail.com
